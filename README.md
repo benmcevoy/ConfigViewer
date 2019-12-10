@@ -4,7 +4,7 @@
 
 Simple console app that mimics the sitecore admin ShowConfig.aspx tool.
 
-Occasionally we need to see the effective configuration of sitecore and the built in ShowConfig.aspx and SHowConfigLayers.aspx will not suffice, usually because it is from a ContentDelivery server or other.
+Occasionally we need to see the effective configuration of sitecore and the built in ShowConfig.aspx and ShowConfigLayers.aspx will not suffice, usually because it is from a ContentDelivery server or other.
 
 Download you App_Config folder and place it in the /bin.
 
