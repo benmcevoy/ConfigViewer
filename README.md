@@ -1,0 +1,2 @@
+# ConfigViewer
+Sitecore configuration viewer
